@@ -1,0 +1,1 @@
+This project is a slight alteration of the standard Maven webapp archetype to be used in various deployment demos.
